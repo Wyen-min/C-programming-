@@ -1,5 +1,10 @@
 #include <stdio.h> 
 
+//I declare, upon my honor, that I did this machine problem assignment by myself using online resources from the following 
+//(please site the online sources). 
+//Further, my solution is not a copy from the aforementioned sources. Finally, I did not use any LLM (chatgpt, gemini, claude, etc.) for this.
+
+
 int main(){
 
     int t = 0;
