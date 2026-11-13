@@ -33,8 +33,8 @@ int main(){
             if (array[k] == k){ // check if the value matches its index
                 flag = 1;
                 break;
-            } else {
-                continue; 
+            } else if (array[k] > k){
+                break; 
             }
         }
 
